@@ -2,7 +2,7 @@ body{
     background:color #f4f4f4;
     color:#636161;
 
-    font-family:/*Comic Sans MS, */Helvetica, 
+    font-family:Comic Sans MS, Helvetica, 
         Arial, sans-serif;
 
     font-size:18px;
@@ -23,6 +23,10 @@ a:hover{
     width:80%;
     margin:auto;
 }
+.container-2{
+    width:70%;
+    margin:auto;
+}
 
 .box-1{
     background-color:#333;
@@ -30,7 +34,31 @@ a:hover{
     border:15px rgb(115, 12, 233) dotted;
     text-align:center;
     padding-bottom:2%;
-    margin:5%;
+    margin-top:3%;
+}
+.box-2{
+    background-color:rgb(26, 80, 40);
+    color:#ffffff;
+    border:15px rgb(46, 184, 83) solid;
+    text-align:center;
+    padding-bottom:5%;
+    margin-top:5%;
+}
+
+.button{
+    background-color:rgb(26, 80, 40);
+    color:#ffff;
+    border:none;
+    padding:8px;
+    margin:10px 40%;
+    font-family: Comic Sans MS, Helvetica, Arial;
+}
+
+.button:hover{
+    background-color:rgb(35, 104, 53);
+    color:#ffff;
+    border:none;
+    padding:8;
 }
 
 .categories{
