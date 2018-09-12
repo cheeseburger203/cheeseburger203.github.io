@@ -2,8 +2,7 @@ body{
     background:color #f4f4f4;
     color:#636161;
 
-    font-family:Comic Sans MS, Helvetica, 
-        Arial, sans-serif;
+    font-family:Comic Sans MS;
 
     font-size:18px;
     font-weight:bold;
@@ -51,7 +50,7 @@ a:hover{
     border:none;
     padding:8px;
     margin:10px 40%;
-    font-family: Comic Sans MS, Helvetica, Arial;
+    font-family: Comic Sans MS;
 }
 
 .button:hover{
